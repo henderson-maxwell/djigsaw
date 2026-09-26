@@ -9,3 +9,8 @@ It is meant to provide composible blocks and components using django-template-ta
 
 Websites have less design cohesion than webapps though.
 
+## To start dev server:
+
+```bash
+cd src && python manage.py tailwind dev
+```
