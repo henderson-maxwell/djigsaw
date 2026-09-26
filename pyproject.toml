@@ -1,0 +1,11 @@
+[project]
+name = "djigsaw"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.14"
+dependencies = [
+    "django>=6.1.1",
+    "django-browser-reload>=1.21.0",
+    "django-tailwind[cookiecutter,honcho,reload]>=4.5.0",
+]
